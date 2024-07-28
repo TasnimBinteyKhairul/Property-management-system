@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Faisal",
+        "Email": "hamiduddin280@gmail.com",
+        "Password": "aaaaaaaa",
+        "Phone": "01711355787",
+        "Address": "aaaaaaaaaaaaaa",
+        "Gender": "Male"
+    },
+    {
+        "Name": "Faisal",
+        "Email": "faisal@gmail.com",
+        "Password": "aaaaaaaa",
+        "Phone": "01711355787",
+        "Address": "aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "Gender": "Male"
+    },
+    {
+        "Name": "",
+        "Email": "",
+        "Password": "",
+        "Phone": "",
+        "Address": "",
+        "Gender": ""
+    },
+    {
+        "Name": "",
+        "Email": "",
+        "Password": "",
+        "Phone": "",
+        "Address": "",
+        "Gender": ""
+    }
+]
